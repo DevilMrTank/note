@@ -1,7 +1,0 @@
-11
-hello1 world1
-hello2 world2
-hello2 world3
-hello3 world3
-hello4 world4
-hello1 world1
